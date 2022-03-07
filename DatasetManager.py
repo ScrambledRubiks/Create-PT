@@ -13,7 +13,7 @@ class data():
         return getattr(CircleTrainingData,  str("circleSet" + str(random.randint(0,9))))
 
     def randRectangle():
-        return getattr(RectangleTrainingData,  str("rectangleSet" + str(random.randint(0,9))))
+        return getattr(RectangleTrainingData,  str("RectangleSet" + str(random.randint(0,9))))
 
     def YNtoTF(var):
         if var == "y":
@@ -22,3 +22,19 @@ class data():
             return False
         else:
             print("Invalid response.")
+
+    def DisplayDataset(dataset):
+        displayLine = ""
+        index = -1
+        for x in range(12):
+            for y in range(12):
+                index = index + 1
+                if dataset[index] == 0:
+                    displayLine = displayLine + "░░░"
+                elif dataset[index] == 1:
+                    displayLine = displayLine + "███"
+                else:
+                    displayLine = displayLine + "███"
+            print(displayLine)
+            displayLine = ""
+            
