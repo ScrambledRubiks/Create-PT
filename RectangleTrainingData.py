@@ -1,3 +1,6 @@
+#All of the raw rectangle training data. Drawn in Piskel(http://piskelapp.com/) and converted into binary using Dcode(https://www.dcode.fr/binary-image)
+
+
 RectangleSet0 = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
@@ -12,7 +15,7 @@ RectangleSet0 = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
 
  
-         1 #last digit says whether it is a circle or a rectangle, 0 for rectangle, 1 for circle
+
 ]
 
 RectangleSet1 = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
@@ -29,7 +32,7 @@ RectangleSet1 = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
 
 
-         1 #last digit says whether it is a circle or a rectangle, 0 for rectangle, 1 for circle
+
 ]
 
 RectangleSet2 = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
@@ -47,7 +50,7 @@ RectangleSet2 = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
 
 
 
-         1 #last digit says whether it is a circle or a rectangle, 0 for rectangle, 1 for circle
+
 ]
 
 RectangleSet3 = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
@@ -65,7 +68,7 @@ RectangleSet3 = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
 
 
 
-         1 #last digit says whether it is a circle or a rectangle, 0 for rectangle, 1 for circle
+
 ]
 
 RectangleSet4 = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
@@ -83,7 +86,7 @@ RectangleSet4 = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
 
 
  
-         1 #last digit says whether it is a circle or a rectangle, 0 for rectangle, 1 for circle
+
 ]
 
 RectangleSet5 = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
@@ -101,7 +104,7 @@ RectangleSet5 = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
 
  
 
-         1 #last digit says whether it is a circle or a rectangle, 0 for rectangle, 1 for circle
+
 ]
 
 RectangleSet6 = [0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 
@@ -118,7 +121,7 @@ RectangleSet6 = [0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0,
 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
 
  
-         1 #last digit says whether it is a circle or a rectangle, 0 for rectangle, 1 for circle
+
 ]
 
 RectangleSet7 = [1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 
@@ -136,7 +139,7 @@ RectangleSet7 = [1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0,
 
 
 
-         1 #last digit says whether it is a circle or a rectangle, 0 for rectangle, 1 for circle
+
 ]
 
 RectangleSet8 = [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 
@@ -154,7 +157,7 @@ RectangleSet8 = [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1,
 
 
 
-         1 #last digit says whether it is a circle or a rectangle, 0 for rectangle, 1 for circle
+
 ]
 
 RectangleSet9 = [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 
@@ -171,7 +174,7 @@ RectangleSet9 = [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1,
 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
 
 
-         1 #last digit says whether it is a circle or a rectangle, 0 for rectangle, 1 for circle
+
 ]
 
 
